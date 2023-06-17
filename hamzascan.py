@@ -27,7 +27,7 @@ print(color("""
 █  █ █  █   ▄   █ ██▄██ █ █▄▄▄▄▄█   ▄   █
 █▄▄█ █▄▄█▄▄█ █▄▄█▄█   █▄█▄▄▄▄▄▄▄█▄▄█ █▄▄█
 
-		                                                                 "By: V3-HAMZA" """,(WHITE)))
+		                                                                 "By: HAMZA BOUGUERNE" """,(WHITE)))
 print(color("[~]",(WHITE)) + color(" The Best Tools For ennumeration!!!",(CYAN)))
 print(color("[~]",(WHITE)) + color(" Usage: python3 hamzascan.py!!!",(CYAN)))
 print(color("--------------",(CYAN))+color("DESCRIPTION",(WHITE))+color("---------------",(CYAN)))
