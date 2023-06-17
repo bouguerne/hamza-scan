@@ -12,7 +12,7 @@ Introducing hamzascan,an advanced enumeration scanning tool designed to enhance 
 
 ``` 
   sudo apt install nmap
-  git clone https://github.com/bouguerne/hamza-scan/blob/main/hamzascan.py
+  git clone https://github.com/bouguerne/hamza-scan.git
   cd hamzascan
   pip install -r requirements.txt
 ```
