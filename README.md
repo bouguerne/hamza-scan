@@ -21,5 +21,8 @@ Introducing hamzascan,an advanced enumeration scanning tool designed to enhance 
 ✔️`` Python3 hamzascan.py``
 
 ![ezgif com-gif-maker](https://)
+
 ## 📜 Credits :
-https://www.linkedin.com/in/hamza-bouguerne/
+---
+
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamza-bouguerne/)
